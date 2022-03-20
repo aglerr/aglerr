@@ -60,9 +60,7 @@ Right now I'm on the final year of my high school and wanted to persuade college
 <br/>  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mdaffa48&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaffa48&hide_border=true&layout=compact" align="left" /> 
-
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdaffa48&show_icons=true&count_private=true&hide_border=true" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaffa48&hide_border=true&layout=compact" /> <br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mdaffa48&&style=flat-square)  
