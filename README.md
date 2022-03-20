@@ -17,8 +17,6 @@
 I’m a software developer and I have 3 years experience of creating Minecraft Spigot plugins.
 
 Right now I'm on the final year of my high school and wanted to persuade college to increase my experience and skills perhaps and of course to expand my network. I'm interested in many things and always want to try something new.   
-  
-<br/>  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -40,8 +38,6 @@ Right now I'm on the final year of my high school and wanted to persuade college
 
 
 </td></tr></table>  
-
-<br/>  
 
 ## Languages and Tools  
 <div align="left">  
